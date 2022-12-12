@@ -1,4 +1,3 @@
-# CS250
 
 # How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
 I create an outside-looking-in approach to the program and attempt to understand wholly what a user would want out of the program. When it comes to direct contact with the user, or a mediator between the users and the Product Owner/tester, and the dev team, it comes down to looking at what is important to the user stories and how to make a high priority story effective and satisfactory within the pogram. The user stories themselves help the dev team immensly by, like mentioned prior, knowing what is high priority and low priority, what the user specifically is wanting out of the program, and what measures and steps are taken in order to achieve the outcome for the user in the user story list; as well as the pass/fail measures which can help guide troubleshooting for the dev team. 
